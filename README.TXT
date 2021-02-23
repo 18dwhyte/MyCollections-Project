@@ -1,5 +1,3 @@
-GRADE OBTAINED : 95.17%
-
 PROJECT TITLE:MyCollections
 
 PURPOSE OF PROJECT: To demonstrate my ability to design, code, and implement a class by instantiating objects of the class. 
